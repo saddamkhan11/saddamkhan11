@@ -72,12 +72,10 @@ Prompt Engineering · AI-Assisted Debugging & Code Review
 
 ### 📈 GitHub Stats
 
-![Saddam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Saddam's GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamkhan11&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamkhan11&layout=compact)
 
-> 💡 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for these stat cards to work.
 
----
 
 ### 📫 Let's Connect
 
