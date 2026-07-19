@@ -73,8 +73,10 @@ Prompt Engineering · AI-Assisted Debugging & Code Review
 ### 📈 GitHub Stats
 
 ![Saddam's GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamkhan11&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamkhan11&layout=compact)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamkhan11&layout=compact&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saddamkhan11&theme=default)
 
 
 ### 📫 Let's Connect
